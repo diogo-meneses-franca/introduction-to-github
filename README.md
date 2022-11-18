@@ -7,7 +7,7 @@
 
 # Communicate using Markdown
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+## _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -107,6 +107,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
 
 ```md
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of IFPR symbol](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg/300px-Instituto_Federal_do_Paran%C3%A1_-_Marca_Vertical_2015.svg.png)
 ```
 
 #### How it looks
